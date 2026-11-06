@@ -3,9 +3,9 @@
 
 Advanced Track submission for the BDAA x SIG Invitational 2026.
 
-**Team members:** Samai Moola, Gowtham Senthilkumar, Sanjay Sabapathy
+Team members: Samai Moola, Gowtham Senthilkumar, Sanjay Sabapathy
 
-**Presentation video:** https://youtu.be/YrkcxFQtx24
+Presentation video: https://youtu.be/YrkcxFQtx24
 
 ## Project overview
 
