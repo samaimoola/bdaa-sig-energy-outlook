@@ -6,11 +6,9 @@ Coal and clean energy analysis for the BDAA x SIG Invitational 2026.
 
 Advanced Track submission for the BDAA x SIG Invitational 2026.
 
-**Team members:** [Add all team members’ names]
+**Team members:** Samai Moola, Gowtham Senthilkumar, Sanjay Subapathy
 
-**Presentation video:** [Paste your unlisted YouTube link]
-
-**Slide deck:** [Add your presentation link or uploaded filename]
+**Presentation video:** https://youtu.be/YrkcxFQtx24
 
 ## Project overview
 
